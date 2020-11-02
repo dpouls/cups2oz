@@ -1,0 +1,14 @@
+C:\Users\dalli\source\repos\CupsToOz\CupsToOz\CupsToOz\obj\Debug\netstandard2.0\CupsToOz.csprojAssemblyReference.cache
+C:\Users\dalli\source\repos\CupsToOz\CupsToOz\CupsToOz\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\dalli\source\repos\CupsToOz\CupsToOz\CupsToOz\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\dalli\source\repos\CupsToOz\CupsToOz\CupsToOz\obj\Debug\netstandard2.0\CupsToOz.AssemblyInfoInputs.cache
+C:\Users\dalli\source\repos\CupsToOz\CupsToOz\CupsToOz\obj\Debug\netstandard2.0\CupsToOz.AssemblyInfo.cs
+C:\Users\dalli\source\repos\CupsToOz\CupsToOz\CupsToOz\obj\Debug\netstandard2.0\CupsToOz.csproj.CoreCompileInputs.cache
+C:\Users\dalli\source\repos\CupsToOz\CupsToOz\CupsToOz\obj\Debug\netstandard2.0\CupsToOz.dll
+C:\Users\dalli\source\repos\CupsToOz\CupsToOz\CupsToOz\obj\Debug\netstandard2.0\ref\CupsToOz.dll
+C:\Users\dalli\source\repos\CupsToOz\CupsToOz\CupsToOz\obj\Debug\netstandard2.0\CupsToOz.pdb
+C:\Users\dalli\source\repos\CupsToOz\CupsToOz\CupsToOz\bin\Debug\netstandard2.0\CupsToOz.deps.json
+C:\Users\dalli\source\repos\CupsToOz\CupsToOz\CupsToOz\bin\Debug\netstandard2.0\CupsToOz.dll
+C:\Users\dalli\source\repos\CupsToOz\CupsToOz\CupsToOz\bin\Debug\netstandard2.0\ref\CupsToOz.dll
+C:\Users\dalli\source\repos\CupsToOz\CupsToOz\CupsToOz\bin\Debug\netstandard2.0\CupsToOz.pdb
+C:\Users\dalli\source\repos\CupsToOz\CupsToOz\CupsToOz\obj\Debug\netstandard2.0\XamlC.stamp
